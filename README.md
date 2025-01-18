@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<a href="https://github.com/LucidDreamForCapstone">
+  <img src="https://github.com/LucidDreamForCapstone.png" alt="LucidDream" width="100">
+</a>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slhun22)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slhun22&layout=compact)
 
